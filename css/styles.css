@@ -1,0 +1,9 @@
+.form-control, .form-select {
+    border: 1px solid black;
+}
+#search {
+    width: 300px;
+}
+th.sort {
+    cursor:pointer;
+}
